@@ -19,7 +19,7 @@ Tech Stack
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- MySQL / H2 Database
+- MySQL 
 - Maven
 
 
