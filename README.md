@@ -1,6 +1,3 @@
-# Student-Management
-Spring Boot CRUD Operations and use POSTMAN tool to executing CRUD Operations
-
 # Student Management System (Spring Boot)
 
 A simple Student Management System REST API built using Spring Boot.  
